@@ -1,2 +1,2 @@
 # Epic7SBot
- Epic 7 bot, refresh shop and buys items.
+ Epic 7 automation bot,that uses Pyautogui to recognize items from the shop.
